@@ -1,0 +1,6 @@
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Progress\bin\Debug\KRATOS.Progress.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Progress\bin\Debug\KRATOS.Progress.pdb
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Progress\obj\Debug\KRATOS.Progress.csproj.AssemblyReference.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Progress\obj\Debug\KRATOS.Progress.csproj.CoreCompileInputs.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Progress\obj\Debug\KRATOS.Progress.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Progress\obj\Debug\KRATOS.Progress.pdb

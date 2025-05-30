@@ -1,0 +1,6 @@
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.DataAcessLayer\bin\Debug\KRATOS.DataAcessLayer.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.DataAcessLayer\bin\Debug\KRATOS.DataAcessLayer.pdb
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.DataAcessLayer\obj\Debug\KRATOS.DataAcessLayer.csproj.AssemblyReference.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.DataAcessLayer\obj\Debug\KRATOS.DataAcessLayer.csproj.CoreCompileInputs.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.DataAcessLayer\obj\Debug\KRATOS.DataAcessLayer.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.DataAcessLayer\obj\Debug\KRATOS.DataAcessLayer.pdb

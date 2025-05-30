@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS", "KRATOS.csproj", "{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS.Tables", "..\KRATOS.Tables\KRATOS.Tables.csproj", "{181CFF5E-8EBF-401A-A823-18D38DFF9023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS.ServiceContracts", "..\KRATOS.ServiceContracts\KRATOS.ServiceContracts.csproj", "{9E4A5E02-7295-445F-9349-494371C1D108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS.Services", "..\KRATOS.Services\KRATOS.Services.csproj", "{13B9618F-F174-4636-B4B8-8E7F0FBEFD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS.Core", "..\KRATOS.Core\KRATOS.Core.csproj", "{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS.DataAcessLayer", "..\KRATOS.DataAcessLayer\KRATOS.DataAcessLayer.csproj", "{E062C823-5758-4CF4-9FBB-78DD5CAA7B8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRATOS.Progress", "..\KRATOS.Progress\KRATOS.Progress.csproj", "{AD83A112-5599-433B-9B40-47704D648805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181CFF5E-8EBF-401A-A823-18D38DFF9023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181CFF5E-8EBF-401A-A823-18D38DFF9023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181CFF5E-8EBF-401A-A823-18D38DFF9023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181CFF5E-8EBF-401A-A823-18D38DFF9023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4A5E02-7295-445F-9349-494371C1D108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4A5E02-7295-445F-9349-494371C1D108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4A5E02-7295-445F-9349-494371C1D108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4A5E02-7295-445F-9349-494371C1D108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B9618F-F174-4636-B4B8-8E7F0FBEFD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B9618F-F174-4636-B4B8-8E7F0FBEFD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B9618F-F174-4636-B4B8-8E7F0FBEFD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B9618F-F174-4636-B4B8-8E7F0FBEFD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E062C823-5758-4CF4-9FBB-78DD5CAA7B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E062C823-5758-4CF4-9FBB-78DD5CAA7B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E062C823-5758-4CF4-9FBB-78DD5CAA7B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E062C823-5758-4CF4-9FBB-78DD5CAA7B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD83A112-5599-433B-9B40-47704D648805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD83A112-5599-433B-9B40-47704D648805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD83A112-5599-433B-9B40-47704D648805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD83A112-5599-433B-9B40-47704D648805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B76E6FE-D339-4407-9AD5-C8A481AA1150}
+	EndGlobalSection
+EndGlobal

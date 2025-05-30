@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\core\\pharmacymigrtorcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\pharmacypatientcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\usercontrols\\kratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:usercontrols\\kratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\usercontrols\\kratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:usercontrols\\kratos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B9618F-F174-4636-B4B8-8E7F0FBEFD3E}|..\\KRATOS.Services\\KRATOS.Services.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.services\\pharmacymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\usefullcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\pharmacycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\usercontrols\\kratos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:usercontrols\\kratos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\pharmacyprescriptioncore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\pharmacylocationcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\dbselectdialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:dbselectdialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83A112-5599-433B-9B40-47704D648805}|..\\KRATOS.Progress\\KRATOS.Progress.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.progress\\logcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD83A112-5599-433B-9B40-47704D648805}|..\\KRATOS.Progress\\KRATOS.Progress.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.progress\\pharmacyprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\9b1c4965f4a257075b18f048692a7c960f5a36a7330c234f5602855e9e3c0170\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E062C823-5758-4CF4-9FBB-78DD5CAA7B8E}|..\\KRATOS.DataAcessLayer\\KRATOS.DataAcessLayer.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.dataacesslayer\\getdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9343DC92-9224-4938-BA52-4D7A3CC2A8DB}|..\\KRATOS.Core\\KRATOS.Core.csproj|e:\\adx\\tools\\pharmacymigrate\\kratos.core\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\kratosmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:kratosmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\dbselectdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:dbselectdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\kratosmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:kratosmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\kratosmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:kratosmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\dbselectdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19D4A0A9-4656-4B8B-A98D-93FC3C177CE4}|KRATOS.csproj|solutionrelative:dbselectdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-09T10:19:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs",
+              "ToolTip": "C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\0ff124eb23e46d219f5c1132e0129e27e73dbacc20486ed220357779547eea26\\Delegate.cs [Read Only]",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAiwJYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:11:06.244Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsefullCore.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\UsefullCore.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\UsefullCore.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\UsefullCore.cs",
+              "RelativeToolTip": "..\\KRATOS.Core\\UsefullCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:27:21.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PharmacyMigrtorCore.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\Core\\PharmacyMigrtorCore.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\Core\\PharmacyMigrtorCore.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\Core\\PharmacyMigrtorCore.cs",
+              "RelativeToolTip": "..\\KRATOS.Core\\Core\\PharmacyMigrtorCore.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAYwBABAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:20:06.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PharmacyPatientCore.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyPatientCore.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\PharmacyPatientCore.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyPatientCore.cs",
+              "RelativeToolTip": "..\\KRATOS.Core\\PharmacyPatientCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:05:39.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PharmacyManager.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Services\\PharmacyManager.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Services\\PharmacyManager.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Services\\PharmacyManager.cs",
+              "RelativeToolTip": "..\\KRATOS.Services\\PharmacyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:55:50.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KRATOS.cs [Design]",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\UserControls\\KRATOS.cs",
+              "RelativeDocumentMoniker": "UserControls\\KRATOS.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\UserControls\\KRATOS.cs [Design]",
+              "RelativeToolTip": "UserControls\\KRATOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:26.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KRATOS.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\UserControls\\KRATOS.cs",
+              "RelativeDocumentMoniker": "UserControls\\KRATOS.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\UserControls\\KRATOS.cs",
+              "RelativeToolTip": "UserControls\\KRATOS.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwMwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:28.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PharmacyCore.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyCore.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\PharmacyCore.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyCore.cs",
+              "RelativeToolTip": "..\\KRATOS.Core\\PharmacyCore.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:28:35.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PharmacyProgress.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Progress\\PharmacyProgress.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Progress\\PharmacyProgress.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Progress\\PharmacyProgress.cs",
+              "RelativeToolTip": "..\\KRATOS.Progress\\PharmacyProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:22:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PharmacyPrescriptionCore.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyPrescriptionCore.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\PharmacyPrescriptionCore.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyPrescriptionCore.cs",
+              "RelativeToolTip": "..\\KRATOS.Core\\PharmacyPrescriptionCore.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAK0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:06:56.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogCategory.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Progress\\LogCategory.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Progress\\LogCategory.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Progress\\LogCategory.cs",
+              "RelativeToolTip": "..\\KRATOS.Progress\\LogCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:24:50.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KRATOS.Designer.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\UserControls\\KRATOS.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\KRATOS.Designer.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\UserControls\\KRATOS.Designer.cs",
+              "RelativeToolTip": "UserControls\\KRATOS.Designer.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAADwv5oBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:38:14.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PharmacyLocationCore.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyLocationCore.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\PharmacyLocationCore.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\PharmacyLocationCore.cs",
+              "RelativeToolTip": "..\\KRATOS.Core\\PharmacyLocationCore.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:25:25.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBSelectDialog.Designer.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\DBSelectDialog.Designer.cs",
+              "RelativeDocumentMoniker": "DBSelectDialog.Designer.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\DBSelectDialog.Designer.cs",
+              "RelativeToolTip": "DBSelectDialog.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:38:53.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KRATOSMainForm.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\KRATOSMainForm.cs",
+              "RelativeDocumentMoniker": "KRATOSMainForm.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\KRATOSMainForm.cs",
+              "RelativeToolTip": "KRATOSMainForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:07:51.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs [Read Only]",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwGQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:55:27.992Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetDB.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.DataAcessLayer\\GetDB.cs",
+              "RelativeDocumentMoniker": "..\\KRATOS.DataAcessLayer\\GetDB.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.DataAcessLayer\\GetDB.cs",
+              "RelativeToolTip": "..\\KRATOS.DataAcessLayer\\GetDB.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:25:37.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DBSelectDialog.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\DBSelectDialog.cs",
+              "RelativeDocumentMoniker": "DBSelectDialog.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\DBSelectDialog.cs",
+              "RelativeToolTip": "DBSelectDialog.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:13:50.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\packages.config",
+              "RelativeDocumentMoniker": "..\\KRATOS.Core\\packages.config",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS.Core\\packages.config",
+              "RelativeToolTip": "..\\KRATOS.Core\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T07:41:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\9b1c4965f4a257075b18f048692a7c960f5a36a7330c234f5602855e9e3c0170\\Application.cs",
+              "ToolTip": "C:\\Users\\adithyas\\AppData\\Local\\Temp\\.vsdbgsrc\\9b1c4965f4a257075b18f048692a7c960f5a36a7330c234f5602855e9e3c0170\\Application.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAAwFYBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:26:53.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KRATOSMainForm.cs [Design]",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\KRATOSMainForm.cs",
+              "RelativeDocumentMoniker": "KRATOSMainForm.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\KRATOSMainForm.cs [Design]",
+              "RelativeToolTip": "KRATOSMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:29:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KRATOSMainForm.Designer.cs",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\KRATOSMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "KRATOSMainForm.Designer.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\KRATOSMainForm.Designer.cs",
+              "RelativeToolTip": "KRATOSMainForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:07.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DBSelectDialog.cs [Design]",
+              "DocumentMoniker": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\DBSelectDialog.cs",
+              "RelativeDocumentMoniker": "DBSelectDialog.cs",
+              "ToolTip": "E:\\ADX\\TOOLS\\PharmacyMigrate\\KRATOS\\DBSelectDialog.cs [Design]",
+              "RelativeToolTip": "DBSelectDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:08:19.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

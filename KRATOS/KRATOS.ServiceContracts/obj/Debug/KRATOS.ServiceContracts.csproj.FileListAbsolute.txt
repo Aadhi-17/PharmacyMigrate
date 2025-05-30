@@ -1,0 +1,6 @@
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.ServiceContracts\bin\Debug\KRATOS.ServiceContracts.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.ServiceContracts\bin\Debug\KRATOS.ServiceContracts.pdb
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.ServiceContracts\obj\Debug\KRATOS.ServiceContracts.csproj.AssemblyReference.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.ServiceContracts\obj\Debug\KRATOS.ServiceContracts.csproj.CoreCompileInputs.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.ServiceContracts\obj\Debug\KRATOS.ServiceContracts.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.ServiceContracts\obj\Debug\KRATOS.ServiceContracts.pdb

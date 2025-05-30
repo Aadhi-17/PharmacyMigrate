@@ -1,0 +1,6 @@
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Tables\bin\Debug\KRATOS.Tables.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Tables\bin\Debug\KRATOS.Tables.pdb
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Tables\obj\Debug\KRATOS.Tables.csproj.AssemblyReference.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Tables\obj\Debug\KRATOS.Tables.csproj.CoreCompileInputs.cache
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Tables\obj\Debug\KRATOS.Tables.dll
+E:\ADX\TOOLS\PharmacyMigrate\KRATOS.Tables\obj\Debug\KRATOS.Tables.pdb
